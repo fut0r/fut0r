@@ -21,7 +21,7 @@ You might have noticed that I've been less active lately. I’m currently dealin
 <h2>Contact</h2>
 
 <p>
-<a href="mailto:fut0r@infiniware.bid">
+<a href="mailto:fut0r@arabdev.site">
   E-mail
 </a>
 </p>
